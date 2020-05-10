@@ -128,7 +128,8 @@ To run the crawler and collect the data you must:
             6.2. Write "db.player.insert({})" -> this other comand creates a collection and in this case it doesn't insert anything
             6.3. To verify that the database has been created correctly write "show dbs"
 
-    7. Run the file, it will automatically show a browser page in the UEFA website, at this moment the crawler has started working. If you use another name in the step before, remember to change line 223 and 224. 
+    7. Run the file, it will automatically show a browser page in the UEFA website, at this moment the crawler has started working. If you use another name in the step before, 
+	remember to change line 223 and 224. 
 
         This crawler can take approximately 4 hours.
         
@@ -160,7 +161,7 @@ Maintainers✒️
     * Dominik Benda (Czech Republic)
     * Tova Ohlson (Sweden)
 
-SUPERVISION
+SUPERVISION👩‍🏫
 -----
     
     * Nuria García - Grupo OneTec (Madrid, Spain)
