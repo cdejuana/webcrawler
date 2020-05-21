@@ -183,7 +183,7 @@ You can use the file `players.json`, that already has all the information collec
 Once you have all the data, to visualize the graphics you must:
 
 1. Enter into graph folder 
-2. Open the Jupyter notebook file named UEFA_Graphs.ipynb and click on the run button, you will see:
+2. Open the Jupyter notebook file named `UEFA_Graphs.ipynb` and click on the run button, you will see:
 	1. The 10 teams that have scored the most goals.
 	2. The red cards graph of all teams.
 	3. The yellow cards graph of all teams.	
